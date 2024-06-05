@@ -21,12 +21,15 @@ git clone https://github.com/onlynickleft/timestables-learning-app.git
 
 cd timestables-learning-app
 
-3. **Open index.html in Your Browser:**
+3. **Open index.html in Your Browser**:
+
 Simply open the index.html file in your preferred web browser to start using the app.
 
 ## Usage ##
 **Select Timestables**: Use the incremental controls to select the grid size.
+
 **Start Practicing**: Start filling out the grid with your answers.
+
 **Check Work**: Observe your answers' correctness on the fly with visual cues (red or green) 
 
 ## License
