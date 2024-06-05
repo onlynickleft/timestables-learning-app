@@ -2,6 +2,8 @@
 
 Welcome to the Timestables Learning App repository! This small web application is designed to help kids practice and master their timestables in a simple and interactive way. The app is built using HTML, JavaScript, and CSS, providing a user-friendly experience for young learners.
 
+![Screenshot of the UI](https://raw.githubusercontent.com/onlynickleft/timestables-learning-app/main/screenshot.webp)
+
 ## Features
 
 **Interactive Interface**: A clean and intuitive interface that is easy for kids to navigate.
