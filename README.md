@@ -15,7 +15,7 @@ To get started with the Timestables Learning App, follow these simple steps:
 
 1. **Clone the Repository**:
 
-git clone https://github.com/yourusername/timestables-learning-app.git
+git clone https://github.com/onlynickleft/timestables-learning-app.git
 
 2. **Navigate to the Project Directory**:
 
